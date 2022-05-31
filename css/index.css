@@ -1,0 +1,65 @@
+  body {
+   background-image: url("images/background1.gif");
+   background-repeat: repeat;
+   background-size: 1920px  1080px;
+   font-family: helvetica;
+  }
+
+#links {
+  width: 1500px;
+  height: 75px;
+  background-color: #141474;
+}
+
+.green {
+  width:500px;
+  height:500px;
+  background-color: #3ce22b;
+}
+
+.purple {
+  position:relative;
+  top:0px;
+  right:-6.5px;
+  width:487px;
+  height:485px;
+  background-color: #8e29a7;
+}
+
+.aboutme {
+word-wrap: normal;
+}
+
+.footer {
+  background-color: #141474;
+}
+
+a{
+  color: white;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #a5adba;
+}
+
+p {
+  /*width: 700px;*/
+  color: white;
+}
+
+.selfie {
+  float: right;
+}
+
+h3 {
+    color: white;
+    text-shadow: 2px 2px 5px #000000;
+  }
+
+h4 {
+  color: pink;
+  text-shadow: 2px 2px 5px #fe0000;
+}
